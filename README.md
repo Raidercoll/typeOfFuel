@@ -7,3 +7,10 @@ Alunos:
 - Matheus Machado Berwaldt
 - Davi Oliveira Paris Nunes
 - Giselle Gonçalves Chaves
+
+# 🛠️ Abrir e rodar o projeto
+
+**git clone https://github.com/Raidercoll/superLuxury.git
+  cd superLuxury/
+  mvn package
+  java -jar target/gs-maven-0.1.0.jar**
