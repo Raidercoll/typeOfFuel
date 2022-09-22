@@ -10,7 +10,7 @@ Alunos:
 
 # 🛠️ Abrir e rodar o projeto
 
-**git clone https://github.com/Raidercoll/superLuxury.git
-  cd superLuxury/
-  mvn package
-  java -jar target/gs-maven-0.1.0.jar**
+**-git clone https://github.com/Raidercoll/superLuxury.git
+  -cd superLuxury/
+  -mvn package
+  -java -jar target/gs-maven-0.1.0.jar**
