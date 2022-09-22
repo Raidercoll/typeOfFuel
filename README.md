@@ -5,5 +5,5 @@
 Alunos:
 
 - Matheus Machado Berwaldt
-- Davi Oliveira 
-- Giselle Chaves
+- Davi Oliveira Paris Nunes
+- Giselle Gonçalves Chaves
