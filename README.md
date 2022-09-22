@@ -2,8 +2,7 @@
 <h1 align="center">SuperLuxury</h1>
 <p align="center">Trabalho da disciplina de Gerenciamento de Configuração de Software</p>
 
-Acadêmicos:
-# Autores
+# Acadêmicos
 
 | [<img src="https://avatars.githubusercontent.com/u/111932796?v=4" width=115><br><sub>Matheus Machado Berwaldt</sub>](https://github.com/MatheusBerwaldt) |  [<img src="https://avatars.githubusercontent.com/u/103294834?v=4" width=115><br><sub>Davi Oliveira Paris Nunes</sub>](https://github.com/Raidercoll) |  [<img src="https://avatars.githubusercontent.com/u/112208391?v=4" width=115><br><sub>Giselle Gonçalves Chaves</sub>](https://github.com/GiselleChaves) |
 | :---: | :---: | :---: |
