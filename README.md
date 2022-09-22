@@ -1,2 +1,1 @@
-# superLuxury2
-Trabalho de GCS
+<h1 align="center">SuperLuxury</h1>
