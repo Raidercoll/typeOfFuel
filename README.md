@@ -1,5 +1,5 @@
 # Trabalho 1 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Raidercoll/superLuxury/maven)
-<h1 align="center">SuperLuxury</h1>
+<h1 align="center">Type of Fuel</h1>
 <p align="center">Trabalho da disciplina de Gerenciamento de Configuração de Software</p>
 
 # Acadêmicos
@@ -10,8 +10,8 @@
 # 🛠️ Clonar e rodar o projeto
 
 ```console
-git clone https://github.com/Raidercoll/superLuxury.git
-cd superLuxury/
+git clone https://github.com/Raidercoll/typeOfFuel.git
+cd typeofFuel/
 mvn package
 java -jar target/gs-maven-0.1.0.jar
 ```
