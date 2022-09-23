@@ -1,6 +1,8 @@
 # Trabalho 1 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Raidercoll/superLuxury/maven)
 <h1 align="center">Type of Fuel</h1>
 <p align="center">Trabalho da disciplina de Gerenciamento de Configuração de Software</p>
+<p align="center">Link do enunciado no BeeCrowd</p>
+<p align="center">https://www.beecrowd.com.br/judge/en/problems/view/1134</p>
 
 # Acadêmicos
 
