@@ -8,6 +8,8 @@
 | :---: | :---: | :---: |
 
 # 🛠️ Clonar e rodar o projeto
+## Necessario ter o Maven instalado
+https://maven.apache.org/download.cgi
 
 ```console
 git clone https://github.com/Raidercoll/typeOfFuel.git
