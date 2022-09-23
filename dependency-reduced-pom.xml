@@ -18,7 +18,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>hello.HelloWorld</mainClass>
+                  <mainClass>hello.App</mainClass>
                 </transformer>
               </transformers>
             </configuration>
