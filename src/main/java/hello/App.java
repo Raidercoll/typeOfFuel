@@ -29,8 +29,9 @@ public class App {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<Integer> c = new ArrayList<>();
-        System.out.println("Selecione a opção de abastecimento desejada: ");
-        System.out.println("1.Alcool \n 2.Gasolina \n 3.Diesel \n 4.fim");
+        System.out.println("Selecione qual o tipo de combustivel que os clientes abasteceram: ");
+        System.out.println("caso digite um número inválido nada ocorrerá!");
+        System.out.println("1.Alcool \n2.Gasolina \n3.Diesel \n4.fim");
         while(r == true){
             int p = sc.nextInt();
             if(p == 4){
